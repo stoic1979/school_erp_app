@@ -1,0 +1,3 @@
+rootProject.name = 'school_erp_app'
+
+include ':app'
